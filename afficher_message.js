@@ -1,0 +1,1 @@
+document.getElementById("resultat").innerHTML = "Bonjour Cher Client";
